@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002F","\u002Ftest","view\u002FREADME","page\u002F1","page\u002F折腾\u002F1","view\u002F折腾\u002Fn1安装armbian做小pc","view\u002F折腾\u002Fgrafana+loki+promtail搭建轻量日志系统","view\u002F折腾\u002F安装ubuntu18常用软件手记","view\u002F折腾\u002Fvps重装系统的习惯性操作","view\u002F折腾\u002F小米10S刷机","view\u002F折腾\u002F博客评论系统"]})
